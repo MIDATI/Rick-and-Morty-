@@ -1,0 +1,10 @@
+.styleimg {
+    background: linear-gradient(green,grey);
+    width: 100%;
+}
+
+.styleimg a img{
+   
+    display: block;
+    margin: auto;
+} 
